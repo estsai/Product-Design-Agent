@@ -13,8 +13,11 @@ Information architecture determines how content is structured, labeled, and navi
 - Limit primary navigation to 5-7 items
 - Use clear, descriptive labels (nouns for sections, verbs for actions)
 - Group by user mental models, not org charts
-- Validate labels with card sorting and tree testing
 - Provide breadcrumbs for hierarchies deeper than 2 levels
+- Users should always know: where am I, where can I go, how do I get back
+- Breadth over depth: 7 top-level items beats 3 levels of nesting
+- Consistent navigation placement across all pages (spatial memory)
+- "Where am I?" should be answerable in 1 second on any screen
 
 ### Navigation Patterns
 - **Top bar:** Best for 3-7 primary sections on desktop
