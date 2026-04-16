@@ -44,7 +44,6 @@ This skill contains **detailed rules** in the `rules/` directory, organized by c
 | 🔴 CRITICAL | [Accessibility](rules/accessibility.md) | WCAG compliance and inclusive design |
 | 🟡 HIGH | [Information Architecture](rules/information-architecture.md) | Navigation and content organization |
 | 🟡 HIGH | [Interaction Design](rules/interaction-design.md) | User flows and microcopy |
-| 🟡 HIGH | [Patterns and Flows](rules/patterns-and-flows.md) | Cross-industry design patterns and flow architecture. |
 | 🟢 MEDIUM | [Visual Design](rules/visual-design.md) | Hierarchy, color, typography, and design systems |
 
 ## UX Design Process
